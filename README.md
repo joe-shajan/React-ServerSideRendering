@@ -2,6 +2,20 @@
 
 ## how to start the app
 
-1. clone
-1. yarn
-1. yarn ssr
+1.  clone this repo
+
+    ```sh
+    clone
+    ```
+
+1.  install packages
+
+    ```sh
+    yarn
+    ```
+
+1.  start the server
+
+    ```sh
+    yarn ssr
+    ```
